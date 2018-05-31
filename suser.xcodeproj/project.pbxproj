@@ -27,6 +27,7 @@
 		1A7FE45320C0892400BF20AD /* suser */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = suser; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A7FE45620C0892400BF20AD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1A7FE45D20C0898D00BF20AD /* UnixUtilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnixUtilities.swift; sourceTree = "<group>"; };
+		1A7FE45F20C0AA3000BF20AD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		1A7FE44A20C0892400BF20AD = {
 			isa = PBXGroup;
 			children = (
+				1A7FE45F20C0AA3000BF20AD /* README.md */,
 				1A7FE45520C0892400BF20AD /* suser */,
 				1A7FE45420C0892400BF20AD /* Products */,
 			);
